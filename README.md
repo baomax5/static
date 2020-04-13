@@ -8,5 +8,7 @@
 - Bootstrap:
   - 链接：[https://cdn.jsdelivr.net/gh/crazyjums/static@master/bootstrap.min.css](https://cdn.jsdelivr.net/gh/crazyjums/static@master/bootstrap.min.css)
   - 网页代码：`<link href="https://cdn.jsdelivr.net/gh/crazyjums/static@master/bootstrap.min.css" rel="stylesheet"/>`
+- rootlist.txt:
+  - link:[https://cdn.jsdelivr.net/gh/crazyjums/static@master/rolelist.txt](https://cdn.jsdelivr.net/gh/crazyjums/static@master/rolelist.txt)
 
 
