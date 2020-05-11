@@ -11,4 +11,5 @@
 - rootlist.txt:
   - link:[https://cdn.jsdelivr.net/gh/crazyjums/static@master/rolelist.txt](https://cdn.jsdelivr.net/gh/crazyjums/static@master/rolelist.txt)
 
-
+- v2ray.sh:
+  - link: [https://cdn.jsdelivr.net/gh/crazyjums/static@master/v2ray.sh](https://cdn.jsdelivr.net/gh/crazyjums/static@master/v2ray.sh)
