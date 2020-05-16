@@ -15,3 +15,5 @@
   - link: [https://cdn.jsdelivr.net/gh/crazyjums/static@master/v2ray.sh](https://cdn.jsdelivr.net/gh/crazyjums/static@master/v2ray.sh)
 - gfwlist.txt:
   - link: [https://cdn.jsdelivr.net/gh/crazyjums/static@master/gfwlist.txt](https://cdn.jsdelivr.net/gh/crazyjums/static@master/gfwlist.txt)
+- ssr-role.conf:
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/ssr-role.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/ssr-role.conf)
