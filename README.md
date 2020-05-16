@@ -19,3 +19,7 @@
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/ssr-role.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/ssr-role.conf)
 - quantumult_X.conf:
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_X.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_X.conf)
+- quantumult_filter.conf:
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_filter.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_filter.conf)
+- quantumult_rejection.conf:
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_rejection.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_rejection.conf)
