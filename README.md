@@ -17,3 +17,5 @@
   - link: [https://cdn.jsdelivr.net/gh/crazyjums/static@master/gfwlist.txt](https://cdn.jsdelivr.net/gh/crazyjums/static@master/gfwlist.txt)
 - ssr-role.conf:
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/ssr-role.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/ssr-role.conf)
+- quantumult_X.conf:
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_X.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_X.conf)
