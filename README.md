@@ -23,3 +23,5 @@
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_filter.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_filter.conf)
 - quantumult_rejection.conf:
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_rejection.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_rejection.conf)
+- clash-config.yaml:    
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/clash-config.yaml](https://cdn.jsdelivr.net/gh/crazyjums/static@master/clash-config.yaml)
