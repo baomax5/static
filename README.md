@@ -25,3 +25,7 @@
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_rejection.conf](https://cdn.jsdelivr.net/gh/crazyjums/static@master/quantumult_rejection.conf)
 - clash-config.yaml:    
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/clash-config.yaml](https://cdn.jsdelivr.net/gh/crazyjums/static@master/clash-config.yaml)
+- swiper-3.4.2.min.js:
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js](https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js)
+- swiper-3.4.2.min.css:
+  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css](https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css)
