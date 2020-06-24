@@ -26,6 +26,8 @@
 - clash-config.yaml:    
   - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/clash-config.yaml](https://cdn.jsdelivr.net/gh/crazyjums/static@master/clash-config.yaml)
 - swiper-3.4.2.min.js:
-  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js](https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js)
+  - 链接：[https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js](https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js)
+  - 网页代码：`<script src = "https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.js"></script>`
 - swiper-3.4.2.min.css:
-  - [https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css](https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css)
+  - 链接：[https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css](https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css)
+  - 网页代码：`<link href="https://cdn.jsdelivr.net/gh/crazyjums/static@master/swiper-3.4.2.min.css" rel="stylesheet"/>`
